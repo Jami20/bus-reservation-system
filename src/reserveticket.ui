@@ -37,6 +37,9 @@
    <property name="text">
     <string>A1</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_A2">
    <property name="geometry">
@@ -56,6 +59,9 @@
    <property name="text">
     <string>A2</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_A3">
    <property name="geometry">
@@ -75,6 +81,9 @@
    <property name="text">
     <string>A3</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_B1">
    <property name="geometry">
@@ -94,6 +103,10 @@
    <property name="text">
     <string>B1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_B2">
    <property name="geometry">
@@ -113,6 +126,10 @@
    <property name="text">
     <string>B2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_B3">
    <property name="geometry">
@@ -132,6 +149,9 @@
    <property name="text">
     <string>B3</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_C1">
    <property name="geometry">
@@ -151,6 +171,10 @@
    <property name="text">
     <string>C1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_C2">
    <property name="geometry">
@@ -170,6 +194,9 @@
    <property name="text">
     <string>C2</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_C3">
    <property name="geometry">
@@ -189,6 +216,9 @@
    <property name="text">
     <string>C3</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_D1">
    <property name="geometry">
@@ -208,6 +238,10 @@
    <property name="text">
     <string>D1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_D2">
    <property name="geometry">
@@ -227,6 +261,10 @@
    <property name="text">
     <string>D2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_D3">
    <property name="geometry">
@@ -246,6 +284,10 @@
    <property name="text">
     <string>D3</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_E1">
    <property name="geometry">
@@ -265,6 +307,10 @@
    <property name="text">
     <string>E1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_E2">
    <property name="geometry">
@@ -284,6 +330,10 @@
    <property name="text">
     <string>E2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_E3">
    <property name="geometry">
@@ -303,6 +353,10 @@
    <property name="text">
     <string>E3</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_F1">
    <property name="geometry">
@@ -322,6 +376,10 @@
    <property name="text">
     <string>F1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_F2">
    <property name="geometry">
@@ -341,6 +399,10 @@
    <property name="text">
     <string>F2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_F3">
    <property name="geometry">
@@ -360,6 +422,10 @@
    <property name="text">
     <string>F3</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_G1">
    <property name="geometry">
@@ -379,6 +445,10 @@
    <property name="text">
     <string>G1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_G2">
    <property name="geometry">
@@ -398,6 +468,10 @@
    <property name="text">
     <string>G2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_G3">
    <property name="geometry">
@@ -417,6 +491,10 @@
    <property name="text">
     <string>G3</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_H1">
    <property name="geometry">
@@ -436,6 +514,10 @@
    <property name="text">
     <string>H1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_H2">
    <property name="geometry">
@@ -455,6 +537,10 @@
    <property name="text">
     <string>H2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_H3">
    <property name="geometry">
@@ -474,6 +560,10 @@
    <property name="text">
     <string>H3</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_I1">
    <property name="geometry">
@@ -493,6 +583,10 @@
    <property name="text">
     <string>I1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_J1">
    <property name="geometry">
@@ -512,6 +606,10 @@
    <property name="text">
     <string>J1</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_I2">
    <property name="geometry">
@@ -531,6 +629,9 @@
    <property name="text">
     <string>I2</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_J2">
    <property name="geometry">
@@ -550,6 +651,10 @@
    <property name="text">
     <string>J2</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_I3">
    <property name="geometry">
@@ -569,6 +674,9 @@
    <property name="text">
     <string>I3</string>
    </property>
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QPushButton" name="Seat_J3">
    <property name="geometry">
@@ -588,6 +696,10 @@
    <property name="text">
     <string>J3</string>
    </property>
+
+   <attribute name="buttonGroup">
+    <string notr="true">seatButtonGroup</string>
+   </attribute>
   </widget>
   <widget class="QLabel" name="label">
    <property name="geometry">
@@ -595,6 +707,7 @@
      <x>410</x>
      <y>90</y>
      <width>91</width>
+     <width>141</width>
      <height>16</height>
     </rect>
    </property>
@@ -607,7 +720,11 @@
     </font>
    </property>
    <property name="text">
+<<<<<<< HEAD
     <string>PassengerName</string>
+=======
+    <string>Passenger Name</string>
+>>>>>>> 66173fd1b4608ad094f9d2100e87ef1e4327c3fd
    </property>
   </widget>
   <widget class="QLineEdit" name="lineEdit_passengerName">
@@ -661,7 +778,11 @@
     <rect>
      <x>490</x>
      <y>140</y>
+<<<<<<< HEAD
      <width>61</width>
+=======
+     <width>101</width>
+>>>>>>> 66173fd1b4608ad094f9d2100e87ef1e4327c3fd
      <height>16</height>
     </rect>
    </property>
@@ -703,7 +824,11 @@
     <rect>
      <x>410</x>
      <y>230</y>
+<<<<<<< HEAD
      <width>111</width>
+=======
+     <width>131</width>
+>>>>>>> 66173fd1b4608ad094f9d2100e87ef1e4327c3fd
      <height>16</height>
     </rect>
    </property>
@@ -739,7 +864,11 @@
     </font>
    </property>
    <property name="text">
+<<<<<<< HEAD
     <string>A1  A2  A3  A4</string>
+=======
+    <string>None</string>
+>>>>>>> 66173fd1b4608ad094f9d2100e87ef1e4327c3fd
    </property>
   </widget>
   <widget class="QPushButton" name="pushButton_confirm">
@@ -785,4 +914,10 @@
  </widget>
  <resources/>
  <connections/>
+<<<<<<< HEAD
+=======
+ <buttongroups>
+  <buttongroup name="seatButtonGroup"/>
+ </buttongroups>
+>>>>>>> 66173fd1b4608ad094f9d2100e87ef1e4327c3fd
 </ui>
